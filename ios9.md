@@ -30,6 +30,15 @@ if #available(iOS 9, OSX 10.10, *) {
 }
 ```
 
+#### Protocol extensions (with constraints)
+```swift
+extension CollectionType where Generator.Element : TextRepresentable {
+    func asList() -> String {
+        return "(" + ", ".join(map({$0.asText()})) + ")"
+    }
+}
+```
+
 #### Error handling
 ```swift
 func loadData() throws { }
