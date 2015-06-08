@@ -14,6 +14,22 @@ Personal favorites from WWDC 2015.
 
 Open Source !!!
 
+#### `guard`
+```swift
+guard let name = person["name"] else {
+	return
+}
+```
+
+#### `#availability`
+```swift
+if #available(iOS 9, OSX 10.10, *) {
+    // Use iOS 9 APIs on iOS, and use OS X v10.10 APIs on OS X
+} else {
+    // Fall back to earlier iOS and OS X APIs
+}
+```
+
 #### Error handling
 ```swift
 func loadData() throws { }
