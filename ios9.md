@@ -19,7 +19,12 @@ Personal favorites from WWDC 2015.
 
 ## Swift 2
 
-Open Source !!!
+- Open Source !!!
+- Swift 2 [migration tool](https://developer.apple.com/swift/) in Xcode 7
+
+  >Xcode 7 includes a powerful migrator that will help convert your application and playground code to work with the latest syntax improvements in Swift 2.0.
+
+
 
 #### `guard`
 ```swift
