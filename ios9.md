@@ -7,6 +7,7 @@ Personal favorites from WWDC 2015.
 ## UIKit
  - [`UIStackView`](https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIStackView_Class_Reference/index.html#//apple_ref/occ/cl/UIStackView)
  - New localization API to query the text direction of the current user [added to UIView](https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIView_Class/index.html#//apple_ref/swift/clm/UIView/c:objc(cs)UIView(cm)userInterfaceLayoutDirectionForSemanticContentAttribute:)
+ - [`UILayoutGuide`](https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UILayoutGuide_Class_Reference/index.html#//apple_ref/occ/cl/UILayoutGuide): No more dummy views to reserve a rectangular space that can interact with Auto Layout.
  
 
 ## Apple Pay
