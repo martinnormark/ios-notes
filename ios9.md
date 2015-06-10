@@ -13,6 +13,7 @@ Personal favorites from WWDC 2015.
 ## Apple Pay
  - Display an interface that lets users add cards to Apple Pay from within your app using [`PKAddPaymentPassViewController`](https://developer.apple.com/library/prerelease/ios/documentation/PassKit/Reference/PKAddPaymentPassViewController_Class/index.html)
  - Support for line items with non-final amounts, using new `type` parameter [`summaryItemWithLabel:amount:type:`](https://developer.apple.com/library/prerelease/ios/documentation/PassKit/Reference/PKPaymentSummaryItem_Ref/index.html#//apple_ref/occ/clm/PKPaymentSummaryItem/summaryItemWithLabel:amount:type:)
+ - Dedicated [`shippingMethods`](https://developer.apple.com/library/prerelease/ios/documentation/PassKit/Reference/PKPaymentRequest_Ref/#//apple_ref/occ/instp/PKPaymentRequest/shippingMethods) array on [PKPaymentRequest](https://developer.apple.com/library/prerelease/ios/documentation/PassKit/Reference/PKPaymentRequest_Ref/), using the new [`PKShippingMethod` type](https://developer.apple.com/library/ios/documentation/PassKit/Reference/PKShippingMethod_Ref/)
 
 ## HomeKit
  - Location and Event triggers [added to HomeKit](https://developer.apple.com/library/prerelease/ios/releasenotes/General/iOS90APIDiffs/frameworks/HomeKit.html).
