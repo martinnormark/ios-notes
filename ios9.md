@@ -15,7 +15,7 @@ Personal favorites from WWDC 2015.
  - Support for line items with non-final amounts, using new `type` parameter [`summaryItemWithLabel:amount:type:`](https://developer.apple.com/library/prerelease/ios/documentation/PassKit/Reference/PKPaymentSummaryItem_Ref/index.html#//apple_ref/occ/clm/PKPaymentSummaryItem/summaryItemWithLabel:amount:type:)
  - Dedicated [`shippingMethods`](https://developer.apple.com/library/prerelease/ios/documentation/PassKit/Reference/PKPaymentRequest_Ref/#//apple_ref/occ/instp/PKPaymentRequest/shippingMethods) array on [PKPaymentRequest](https://developer.apple.com/library/prerelease/ios/documentation/PassKit/Reference/PKPaymentRequest_Ref/), using the new [`PKShippingMethod` type](https://developer.apple.com/library/ios/documentation/PassKit/Reference/PKShippingMethod_Ref/)
  - Passbook Passes that work with Apple Pay (loyalty, rewards)
- - Quite a few new interessting methods in [`PKPassLibrary`[(https://developer.apple.com/library/prerelease/ios/documentation/PassKit/Reference/PKPassLibrary_Ref/index.html#//apple_ref/occ/cl/PKPassLibrary)
+ - Quite a few new interessting methods in [`PKPassLibrary`](https://developer.apple.com/library/prerelease/ios/documentation/PassKit/Reference/PKPassLibrary_Ref/index.html#//apple_ref/occ/cl/PKPassLibrary)
  - WWDC 2015 session: [Wallet - The home for Apple Pay and more](https://developer.apple.com/videos/wwdc/2015/?id=701)
 
 ## HomeKit
