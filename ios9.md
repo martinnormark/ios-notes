@@ -8,7 +8,7 @@ Personal favorites from WWDC 2015.
  - [`UIStackView`](https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIStackView_Class_Reference/index.html#//apple_ref/occ/cl/UIStackView) is a new view to make it easier to layout subviews in vertical or horizontal stacks - or any combination of the two, nested together. Litte Bites of Cocoa has a [pretty nice example](http://littlebitesofcocoa.com/post/121598537380/16-uistackview). There's also a nice [video from WWDC 2015](https://developer.apple.com/videos/wwdc/2015/?id=218) that also contains nice run through of Auto Layout "mysteries" and a little clarity with best practices.
  - New localization API to query the text direction of the current user [added to UIView](https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIView_Class/index.html#//apple_ref/swift/clm/UIView/c:objc(cs)UIView(cm)userInterfaceLayoutDirectionForSemanticContentAttribute:)
  - [`UILayoutGuide`](https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UILayoutGuide_Class_Reference/index.html#//apple_ref/occ/cl/UILayoutGuide): No more dummy views to reserve a rectangular space that can interact with Auto Layout.
- - [`UICollectionView` re-ordering](http://nshint.io/blog/2015/07/16/uicollectionviews-now-have-easy-reordering/) supprted natively!
+ - [`UICollectionView` re-ordering](http://nshint.io/blog/2015/07/16/uicollectionviews-now-have-easy-reordering/) supported natively!
  
 
 ## Apple Pay + PassKit (Wallet)
